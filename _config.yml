@@ -2,7 +2,3 @@ theme: jekyll-theme-midnight
 title: MKCP
 show_downloads: false
 description: Minh Khai Competitive Programming
-
-[![LICENSE](https://img.shields.io/github/license/mkcp-web/mkcp-web.github.io)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![DISCORD](https://img.shields.io/discord/969256444383870986?label=discord)](https://discord.gg/ZtZz9HzBJ5)
-[![FACEBOOK](https://img.shields.io/badge/facebook-MKCP-blue)](https://www.facebook.com/mkcpg)
